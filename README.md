@@ -7,10 +7,10 @@ Eu sou o percypaulo
 - Academia
 - Estudar tecnologias importantes para o futuro
 - Jogar videogames
-- Assistir futebol
 
 ## O que estou estudando:
 
 - JavaScript
 - Materiais semicondutores
 - React
+- Crypto

@@ -5,12 +5,14 @@ Eu sou o percypaulo
 ## Hobbies
 
 - Academia
-- Estudar tecnologias importantes para o futuro
+- Estudar tecnologia
 - Jogar videogames
 
 ## O que estou estudando:
 
 - JavaScript
-- Materiais semicondutores
 - React
+- MySQL
+- Node.js
 - Crypto
+- Engenharia de Materiais
